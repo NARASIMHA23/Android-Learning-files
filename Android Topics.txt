@@ -1,0 +1,82 @@
+List of Android topics
+---------------------------
+1. Widgets
+-------------
+Button,Checkbox,Radiobutton,RadioGroup,EditText,TextView,ImageView
+Switch,Toggle,Spinner.
+
+2. Dialogs
+-------------
+AlertDialog
+CustomDialog
+Progress Dialog
+DatePicker Dialog
+TimePicker Dialog
+
+3. Containers
+-----------------
+WebView
+ListView
+GridView
+Gallery View
+View Pagers
+Tab Host/TabLayout
+Scrollview/Horizantol Scrollview
+Recycle View
+
+4. Layouts
+-------------
+LinearLayout
+RelativeLayout
+FrameLayout
+TableLayout
+TableRow
+Fragment
+
+5. Sql Data Base
+--------------------
+create
+insert
+update
+delete
+fetching
+
+6. Media
+-------------
+Photo (Create/Fetch)
+Video (Create/Fetch/Play)
+Audio (Create/Fetch/Play)
+
+7. Google Maps
+-----------------
+Current Location
+Single map point
+Multiple map points
+Draw line two map points
+
+8. Web Services (Get/Post)
+---------------------------------
+Aquery
+OkHttp/OkHttpClient
+HttpUrlConnection
+Httpclient/DefaultHttpClient
+
+9. Others
+-------------
+Include
+View
+Layout Inflator
+Menus
+Action barlayout / Toolbar
+
+
+
+
+
+
+
+
+
+
+
+
